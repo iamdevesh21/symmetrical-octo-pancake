@@ -1,0 +1,31 @@
+# 🐞 BugHunt-Demo - A Beginner Friendly Bug Hunting Project
+
+Welcome to **BugHunt-Demo**, a sample project created for learning and demonstrating the basics of bug hunting, input validation issues, and test case writing. This project is designed especially for **beginners** who are curious about software testing, bug reporting, and automation.
+
+---
+
+## 🚀 Features
+
+- Simulated vulnerable Python app
+- Includes test cases for bug detection
+- Sample bug report included
+- Beginner-friendly and documented
+
+---
+
+## 🔧 Tools Used
+
+- Python 3.x
+- pytest
+- Git & GitHub
+- OWASP ZAP (optional)
+- Postman (optional)
+
+---
+
+## 🛠️ How to Run
+
+1. Clone the repo
+```bash
+git clone https://github.com/yourusername/BugHunt-Demo.git
+cd BugHunt-Demo
